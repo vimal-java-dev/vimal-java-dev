@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=vimal-java-dev&label=Profile%20views&color=0e75b6&style=flat" alt="vimal-java-dev" />
   <br>
   <a href="https://x.com/vimal_java_dev" target="blank">
-	  <img src="https://img.shields.io/twitter/follow/vimal@6040?logo=twitter&style=for-the-badge" alt="Vimal" />
+	  <img src="https://img.shields.io/twitter/follow/vimal_java_dev?logo=twitter&style=for-the-badge" alt="Vimal" />
   </a>
 </p>
   
